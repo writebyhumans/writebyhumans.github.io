@@ -1,0 +1,13 @@
+baseURL = 'https://writebyhumans.nl'
+languageCode = 'en-us'
+title = "WriteByHumans"
+theme= 'paper'
+[params]
+twitter = ''                # twitter.com/YOUR_TWITTER_ID
+github = ''                  # github.com/YOUR_GITHUB_ID
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+url = "/about/"
+weight = 10
