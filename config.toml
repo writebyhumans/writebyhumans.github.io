@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "WriteByHumans"
 theme= 'paper'
 [params]
-twitter = ''                # twitter.com/YOUR_TWITTER_ID
+twitter = 'test'                # twitter.com/YOUR_TWITTER_ID
 github = ''                  # github.com/YOUR_GITHUB_ID
 [menu]
 [[menu.main]]
