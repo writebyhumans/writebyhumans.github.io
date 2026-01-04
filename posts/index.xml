@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WriteByHumans</title>
-    <link>https://writebyhumans.com/</link>
-    <description>Recent content on WriteByHumans</description>
+    <title>Posts on WriteByHumans</title>
+    <link>https://writebyhumans.com/posts/</link>
+    <description>Recent content in Posts on WriteByHumans</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Dec 2023 22:00:58 +0400</lastBuildDate><atom:link href="https://writebyhumans.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://writebyhumans.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://writebyhumans.com/about/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Thu, 28 Dec 2023 22:00:58 +0400</lastBuildDate><atom:link href="https://writebyhumans.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Battle of HTTP Clients in the Spring Framework: RestClient, RestTemplate, WebClient, and Feign</title>
       <link>https://writebyhumans.com/posts/httpclients/</link>
